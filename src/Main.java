@@ -40,7 +40,7 @@ public class Main {
                 fullName = fullName.replace('ё','е');
             }
         }*/
-        //почему for не работает?
+        //почему if не работает?
         fullName = fullName.replace('ё', 'е');
         System.out.println("Данные ФИО сотрудника — " + fullName);
     }
